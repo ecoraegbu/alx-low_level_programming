@@ -1,5 +1,9 @@
 #include "main.h"
-
+/**
+ * 
+ *
+ * Return: Always 0.
+ */
 
 int print_sign(int n)
 {
