@@ -1,6 +1,9 @@
 #include "main.h"
 #include <stdio.h>
 
+/**
+ *prime numbers
+ */
 int main(void)
 
 {

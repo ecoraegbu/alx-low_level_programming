@@ -1,8 +1,6 @@
 #include "main.h"
 /**
- * 
- *
- * Return: Always 0.
+ * times_table 
  */
 void times_table(void)
 {

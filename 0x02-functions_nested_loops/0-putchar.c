@@ -2,9 +2,9 @@
 
 
 /**
- * main - Entry point
+ *return void
  *
- * Return: nothing, return void
+ * 
  */
 
 int main(void)

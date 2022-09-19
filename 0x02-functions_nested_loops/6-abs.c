@@ -1,10 +1,10 @@
 #include "main.h"
 #include <stdio.h>
+
 /**
- * 
- *
- * Return: Always 0.
+ * _abs 
  */
+
 int _abs(int n)
 {
 

@@ -1,10 +1,8 @@
 #include "main.h"
-/**
- * 
- *
- * Return: Always 0.
- */
 
+/**
+ * print_sign 
+ */
 int print_sign(int n)
 {
 if (n > 0)

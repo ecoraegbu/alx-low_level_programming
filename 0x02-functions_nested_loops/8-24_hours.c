@@ -1,10 +1,9 @@
 #include "main.h"
 
 /**
- * 
- *
- * Return: Always 0.
+ * jack_bauer 
  */
+
 void jack_bauer(void)
 
 {

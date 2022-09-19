@@ -1,8 +1,7 @@
+#include "main.h"
 #include <stdio.h>
 /**
- * main - entry point
- *
- * Return: void
+ * fizz_buzz
  */
 
 int main(void)

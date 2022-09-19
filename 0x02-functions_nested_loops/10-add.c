@@ -2,9 +2,7 @@
 #include <stdio.h>
 
 /**
- * 
- *
- * Return: Always 0.
+ * add 
  */
 
 int add(int i, int k)
